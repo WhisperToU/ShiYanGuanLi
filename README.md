@@ -62,7 +62,7 @@ lab-management/
 │   └── lab_management.sql            # 数据库文件
 │
 ├── 主搜索页面截图.png           
-├── 主搜索页面截图.png   
+├── 入库管理截图.png   
 └──  README.md                         # 项目说明文件
 
 ```

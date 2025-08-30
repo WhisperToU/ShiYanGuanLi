@@ -1,0 +1,30 @@
+input{
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+}
+#step1{
+	background-color: #FF9966;
+	padding: 10px;
+	border-radius:20px ;
+}
+#step2{
+	background-color: #FF6666;
+	padding: 10px;
+	border-radius:20px ;
+
+}
+#step3{
+	background-color: #FFCCCC;
+	padding: 10px;
+	border-radius:20px ;
+}
+
+span{
+	background-color: #D58283;
+	font-weight: bold;
+}
+h1{
+	text-align: center;
+}
